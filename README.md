@@ -19,15 +19,6 @@ With responsive controls, vibrant animations, and satisfying shooting mechanics,
 ![gif3](https://github.com/user-attachments/assets/3a4ff166-3343-4530-bd0c-0f0f0a0810c7)
 
 
-<p align="center">
-  <img src=![gif1](https://github.com/user-attachments/assets/19a55d27-bf40-4cee-9f11-54442c9b3bd4)
- width="300" />
-</p>
-  <img src="https://github.com/user-attachments/assets/ed499a43-..." width="300" />
-  <img src="https://github.com/user-attachments/assets/3a4ff166-..." width="300" />
-</p>
-
-
 ✨ Features
 ⚔️ 2D Shooter Gameplay: Smooth and engaging combat with intuitive controls.
 
