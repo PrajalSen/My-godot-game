@@ -8,8 +8,6 @@ With responsive controls, vibrant animations, and satisfying shooting mechanics,
 
 ## Screenshots
 
-![Screenshot 2025-06-09 165359](https://github.com/user-attachments/assets/c1193942-7985-442e-846f-c2bf43327479)
-
 ![Gameplay Screenshot] ![One](https://github.com/user-attachments/assets/d11a259c-e847-412b-9ea1-07f9da3ec614)
 
 ![Two](https://github.com/user-attachments/assets/f2ae4f20-bde6-4f47-8d39-02620aa593b3)
