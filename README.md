@@ -12,7 +12,13 @@ With responsive controls, vibrant animations, and satisfying shooting mechanics,
 
 ![Two](https://github.com/user-attachments/assets/f2ae4f20-bde6-4f47-8d39-02620aa593b3)
 
-![gif1](https://github.com/user-attachments/assets/c7e45321-c24a-4679-b76c-6be8e3b7b1a0) width="500"
+<p align="center">
+  <img src="![gif1](https://github.com/user-attachments/assets/534f3ee3-8153-4e81-b5ff-2dddd5f9d6be)
+" width="300" />
+  <img src="![gif2](https://github.com/user-attachments/assets/8adcddb4-b90e-4605-86a1-b10f583d7f12)
+" width="300" />
+</p>
+
 
 
 
